@@ -14,13 +14,10 @@ html {
 body{
   font-family: 'Work Sans', sans-serif;
   color: #454959;
-  font-weight: 300;
-  line-height: 1.5;
+  font: 300 100%/1.5 'Work Sans',  sans-serif;
 }
 h1, h2{
-  font-family: 'Abolition Regular', Impact, Charcol, sans-serif;
-  font-weight: normal;
-  line-height: 1.1;
+  font: 700 100%/1.1 'Abolition Regular', Impact, Charcol, sans-serif;
 }
 h1{
   font-size: 4rem;
