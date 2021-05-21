@@ -60,6 +60,9 @@ header, footer {
 main{
   /* Hyphenation auto hyphens words that wrap to a new line */
   hyphens: auto;
+  max-width: 1000px;
+  margin: auto;
+
 }
 
 
